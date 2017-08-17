@@ -1,0 +1,12 @@
+1. Planning Cassandra Cluster Deployment
+2. Cassandra Configuration
+3. Monitoring Cassandra
+4. Maintenance
+5. Security
+6. Performance Tuning
+
+Hardware Selection
+- network
+- cpu
+- memory
+- disk
